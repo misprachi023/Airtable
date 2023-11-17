@@ -50,3 +50,4 @@
 ![resouce](<Airtable/src/file/Screenshot 2023-11-17 165805.png>)
 ![resource](<Airtable/src/file/Screenshot 2023-11-17 165815.png>)
 
+[deploy link](https://aritable-icgd9nfub-prachi-mishra.vercel.app/)
