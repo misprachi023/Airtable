@@ -1,0 +1,14 @@
+button {
+	padding: 8px;
+	color: rgb(101, 101, 247);
+	font-size: 18px;
+	font-weight: 700;
+	word-spacing: 1px;
+	border-radius: 8px;
+	border: none;
+	background-color: aliceblue;
+	cursor: pointer;
+	font-family: Sans-serif;
+	display: block;
+	margin-top: 3rem;
+}

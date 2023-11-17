@@ -1,0 +1,22 @@
+uee-container {
+	display: flex;
+	white-space: nowrap;
+	margin-bottom: 5rem;
+
+	/* Adjust the duration as needed */
+}
+.marquee-item {
+	width: 100%;
+	overflow: hidden;
+	justify-content: space-around;
+	animation: marquee 10s linear infinite;
+	margin-right: 50px; /* Adjust the spacing between cards as needed */
+}
+@keyframes marquee {
+	0% {
+		transform: translateX(100%);
+	}
+	100% {
+		transform: translateX(-100%);
+	}
+}
